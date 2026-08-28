@@ -9,8 +9,8 @@ lua54 'yes'
 
 name 'sg-slashtire'
 description 'sg-slashtire - A standalone target-based tire slashing script.'
-author 'Orlin'
-version '1.0.4'
+author 'SG Studios'
+version '1.0.0'
 
 client_scripts {
     'client/**.lua'
